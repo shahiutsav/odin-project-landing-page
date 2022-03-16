@@ -12,7 +12,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 8px 100px;
+    padding: 8px 150px;
 }
 
 .logo {
@@ -23,7 +23,7 @@ body {
 ul {
     list-style-type: none;
     display: flex;
-    gap: 8px;
+    gap: 32px;
 }
 
 a {
