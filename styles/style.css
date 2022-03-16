@@ -79,3 +79,8 @@ a {
     text-align: center;
     margin: 48px 0;
 }
+
+.img-row {
+    display: flex;
+    gap: 48px;
+}
