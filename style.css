@@ -6,6 +6,9 @@ body {
 .navbar {
     background-color: #1f2937;
     color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .logo {
@@ -14,6 +17,8 @@ body {
 
 ul {
     list-style-type: none;
+    display: flex;
+    gap: 8px;
 }
 
 a {
