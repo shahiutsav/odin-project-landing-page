@@ -72,12 +72,15 @@ a {
 }
 
 /* ========Styles for information elements======== */
+
+.information {
+    margin: 48px 0;
+}
 .information-header {
     font-size: 36px;
     font-weight: 800;
     color: #1f2937;
     text-align: center;
-    margin: 48px 0;
 }
 
 .img-row {
@@ -87,13 +90,15 @@ a {
 }
 
 .img-card {
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    display: flex;
+    flex-direction: column;
 }
 
 .img-card img {
-    width: 100%;
-    height: 100%;
+    align-self: center;
+    width: 180px;
+    height: 180px;
     object-fit: cover;
     border-radius: 25px;
 }
