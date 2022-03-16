@@ -36,18 +36,20 @@ a {
     background-color: #1f2937;
     justify-content: center;
     padding: 4em 13em;
-    gap: 2em;
+    gap: 3em;
 }
 
 .hero-main-text {
     font-size: 48px;
     font-weight: 800;
     color: #f9faf8;
+    line-height: 1.15;
 }
 
 .secondary-text {
     font-size: 18px;
     color: #e5e7eb;
+    margin: 0;
 }
 
 .signup-btn {
@@ -58,4 +60,9 @@ a {
     padding: 6px 30px;
     border: none;
     border-radius: 10px;
+    margin-top: 10px;
+}
+
+.hero-image {
+    height: 270px;
 }
