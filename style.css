@@ -35,6 +35,8 @@ a {
     display: flex;
     background-color: #1f2937;
     justify-content: center;
+    padding: 4em 13em;
+    gap: 2em;
 }
 
 .hero-main-text {
