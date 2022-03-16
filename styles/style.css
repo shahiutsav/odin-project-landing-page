@@ -6,6 +6,8 @@ body {
     margin: 0;
 }
 
+/* ========Styles for navbar elements======== */
+
 .navbar {
     background-color: #1f2937;
     color: white;
@@ -30,6 +32,8 @@ a {
     text-decoration: none;
     color: white;
 }
+
+/* ========Styles for hero elements======== */
 
 .hero {
     display: flex;
@@ -65,4 +69,13 @@ a {
 
 .hero-image {
     height: 270px;
+}
+
+/* ========Styles for information elements======== */
+.information-header {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+    text-align: center;
+    margin: 48px 0;
 }
