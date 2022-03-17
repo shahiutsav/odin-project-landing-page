@@ -107,3 +107,20 @@ a {
 .img-card p {
     text-align: center;
 }
+
+/* ========Styles for quote-section elements======== */
+.quote-section {
+    background-color: #e5e7eb;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.customer {
+    font-size: 22px;
+    font-weight: 600;
+}
