@@ -159,3 +159,11 @@ a {
     flex-shrink: 0;
     padding: 6px 30px;
 }
+
+/* ========Styles for action-section elements======== */
+.footer {
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+    padding: 44px;
+}
