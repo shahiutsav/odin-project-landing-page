@@ -111,6 +111,7 @@ a {
 /* ========Styles for quote-section elements======== */
 .quote-section {
     background-color: #e5e7eb;
+    padding: 5em 15em;
 }
 
 .quote {
@@ -121,6 +122,8 @@ a {
 }
 
 .customer {
+    display: flex;
     font-size: 22px;
     font-weight: 600;
+    flex-direction: row-reverse;
 }
