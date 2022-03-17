@@ -127,3 +127,35 @@ a {
     font-weight: 600;
     flex-direction: row-reverse;
 }
+
+/* ========Styles for action-section elements======== */
+.action-section {
+    background-color: #3882f6;
+    color: white;
+    width: 70%;
+    height: auto;
+    margin: 50px auto;
+    padding: 40px 0;
+    display: flex;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+}
+
+.action-header {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.btn-action-signup {
+    font-weight: 600;
+    font-size: 16px;
+    color: white;
+    background-color: #3882f6;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    flex-shrink: 0;
+    padding: 6px 30px;
+}
